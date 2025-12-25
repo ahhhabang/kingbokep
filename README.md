@@ -13,7 +13,7 @@ pip install requests
 pip install beautifulsoup4
 pkg install git -y
 
-# Download script order-kuota
+# Download script kingbokep
 git clone https://github.com/ahhhabang/kingbokep.git
 
 # Masuk ke directory
