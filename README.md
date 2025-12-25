@@ -17,7 +17,7 @@ pkg install git -y
 git clone https://github.com/ahhhabang/kingbokep.git
 
 # Masuk ke directory
-cd order-kuota
+cd kingbokep
 
 # Jalankan aplikasi
-python run.py
+python bokep.py
